@@ -110,6 +110,9 @@ class DatasetSerial(data.Dataset):
         self.target_transform = target_transform
         self.num = self.__len__()
 
+    def __len__(self):
+        return len(self.pair_list)
+
     def __getitem__(self, index):
         """
         Args:
