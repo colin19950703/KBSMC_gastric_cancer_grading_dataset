@@ -5,7 +5,7 @@ This repository provides the KBSMC gastric cancer grading dataset that has been 
 
 ## Download
 Google drive:\
-Training + Validation + Testing (Resize to 512): [[link]](https://drive.google.com/file/d/1KsLvqNdwAnw_WunVyOqi-K/view?usp=sharing)
+Training + Validation + Testing (Resize to 512): [[link]](https://drive.google.com/file/d/1tYcEHwsUOzJKXn4Uh-qQq7XcfA4G5E6V/view?usp=sharing)
 
 ## Brief description
 The tissue images and annotations are provided by Kangbuk Samsung Hospital, Seoul, South Korea. \
